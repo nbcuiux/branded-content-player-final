@@ -1,0 +1,163 @@
+.share-item-card {
+	.icon-share-outline {
+		visibility: hidden;
+		
+		color: rgba($color-white, .55);
+		position: relative;
+		top: -23px;
+		left: -10px;
+		cursor: pointer;
+
+	}
+	&:hover {
+				.icon-share-outline {
+				
+					color: darken($color-yellow, 10%);
+				}
+			}
+
+*:focus {outline:none !important}
+
+	.share-item-buttons {
+		visibility: hidden;
+		display: flex;
+		flex-direction: row;
+		margin-top: -56px;
+		margin-left: 15%;
+		button {
+		opacity: 0;
+		transform: scale(0);
+		transition: $basic-transition;
+		border: 1px solid rgba(white,0.6);
+		position: relative;
+		color: rgba(white,0.6);
+		font-family: $font-stack;
+		background: transparent;
+		text-transform: uppercase;
+		align-items: center;
+		display: inline;
+		font-weight: 400;
+		margin-right: 10px;
+		margin-bottom: -15px;
+		cursor: pointer;
+		outline: none;
+		border-radius: 50%;
+		margin-left: -20px;
+		&.facebook {
+        padding: 10px 15px;
+        
+		}
+		&.twitter {
+        padding: 10px 8px;
+        
+		}
+		&.pinterest {
+        padding: 10px 10px;
+        
+		}
+		&.google-plus {
+        padding: 10px 6px;
+        
+		}
+
+		}
+		&--show {
+			visibility: hidden;
+		
+		button {
+	    opacity: 1;
+		transform: scale(1);
+		border: 1px solid rgba(white,0.6);
+		position: relative;
+		color: rgba(white,0.6);
+		font-family: $font-stack;
+		background: transparent;
+		text-transform: uppercase;
+		align-items: center;
+		display: inline;
+		font-weight: 400;
+		margin-right: 10px;
+		margin-bottom: -15px;
+		cursor: pointer;
+		outline: none;
+		margin-left: 0;
+		border-radius: 50%;
+		&.facebook {
+        padding: 10px 15px;
+        transition: transform 0.3s ease-out;
+		}
+		&.twitter {
+        padding: 10px 8px;
+        transition: transform 0.2s ease-out;
+		}
+		&.pinterest {
+        padding: 10px 10px;
+        transition: transform 0.4s ease-out;
+		}
+		&.google-plus {
+        padding: 10px 6px;
+        transition: transform 0.5s ease-out;
+		}
+
+		
+		@media screen and (max-width: $bp-small) {
+			margin-bottom: 15px;
+		}
+		
+		&:hover {
+			&.facebook {
+				color: white;
+				background: $color-facebook;
+				border-color: $color-facebook;
+
+			}
+			&.twitter {
+				color: white;
+				background: $color-twitter;
+				border-color: $color-twitter;
+			}
+			&.google-plus {
+				color: white;
+				background: $color-google-plus;
+				border-color: $color-google-plus;
+			}
+			&.pinterest {
+				color: white;
+				background: $color-mail;
+				border-color: $color-mail;
+			}
+		}
+		span {
+			@media screen and (max-width: $bp-small) {
+					display: none;
+			}
+		}
+	}
+
+		}
+		
+		
+	}
+	
+	
+
+	
+
+	i {
+		font-size: 21px;
+		outline: none;
+		@media screen and (max-width: $bp-medium) {
+			font-size: 24px;
+			margin: 0;
+		}
+		@media screen and (max-width: $bp-small) {
+			font-size: 16px;
+			margin: 0;
+		}
+	}
+
+	
+
+
+
+}

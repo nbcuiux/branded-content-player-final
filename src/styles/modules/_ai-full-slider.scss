@@ -1,0 +1,138 @@
+.slider {
+
+
+  display: flex;
+  overflow-y: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  height: 306px;
+  overflow-x: scroll;
+  flex-wrap: wrap;
+
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+
+  .rotten-wrapper {
+    display: flex;
+    flex-direction: column;
+    padding-right: 0px !important;
+    position: relative;
+    background: linear-gradient(0deg, rgba(darken($color-black, 10%),0.8), rgba(darken($color-black, 10%),0.12) 80%, rgba(darken($color-black, 10%),0));
+    height: 100%;
+  }
+
+  .rotten {
+    opacity: 1 !important;
+    height: 20px;
+    max-width: 80%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    margin-left: 16px;
+    
+
+  .score-wrapper {
+ 
+    opacity: 1 !important;
+    display: flex;
+    margin-right: 15px;
+
+    img{
+      height: 28px;
+       width: 32px;
+    }
+    
+    span{
+    font-size: 14px;
+    line-height: 2;
+    color: #e7dada;
+    margin-left: 6px;
+    font-weight: bold;
+    font-family: "Lora", serif;
+      }
+    } 
+  }
+
+  .mask {
+    cursor: pointer;
+    margin-bottom: -1px;
+    border-radius: $border-radius;
+    overflow: hidden;
+    width: 180px;
+    animation: fadeIn 0.6s $easing3;
+    opacity: 0;
+    animation-fill-mode: forwards;
+    height: 240px;
+    margin-right: 24px;
+
+    img {
+      height: 100%;
+    }
+ 
+
+    &:after {
+      content: '';
+      position: relative;
+      display: block;
+      width: 180px;
+      height: 100%;
+      opacity: 0.18;
+      transition: opacity 0.3s $easing1;
+      background: darken($color-black, 10%);
+      transform: translateY(-240px);
+    }
+
+     &:nth-child(1) {
+      img{
+        width: 180px;
+      }
+      
+     }
+
+    &:last-child {
+      margin-right: 0px;
+       
+    }
+
+    &:hover {
+      &:after {
+        opacity: 0;
+      }
+    }
+
+    @for $i from 1 through 10 {
+      &:nth-child(#{$i}) {
+        animation-delay: ($i * 0.09s);
+
+      }
+    }
+  }
+
+  &::-webkit-scrollbar {
+    height: 7px;
+    background: transparent;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    border-radius: 3px;
+    height: 7px;
+    background: transparent;
+  }
+
+  &::-webkit-scrollbar-thumb:window-inactive {
+    background: transparent;
+  }
+
+  &:hover {
+    &::-webkit-scrollbar-thumb {
+      background: rgba($color-white, .18);
+    }
+  }
+}

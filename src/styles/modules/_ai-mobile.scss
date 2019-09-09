@@ -1,0 +1,117 @@
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+  .container {
+    padding-top: 49% !important;
+
+    .control-bar__time {
+      font-size: 14px;
+    }
+
+    .progress-bar {
+      height: 9px;
+      top: -9px;
+      .progress-bar__handle {
+        top: -6px;
+        width: 16px;
+        height: 16px;
+      }
+    }
+
+    .pause-card {
+      .pause-card__content {
+        width: 50%;
+        padding: 24px;
+        h2 {
+          font-size: 40px;
+        }
+        p {
+          font-size: 15px;
+        }
+      }
+      &--centered {
+        .pause-card__content {
+          padding-top: 18px;
+          h2 {
+            font-size: 30px;
+          }
+          h3 {
+            font-size: 21px;
+          }
+
+        }
+      }
+    }
+
+    .ai-preview {
+      width: 360px;
+      top: 0%;
+      // height: 100%;
+      overflow-y: hidden;
+
+      &--needs-scrolling-touch {
+        .ai-preview-list-column, .ai-preview-list-scrolling {
+          -webkit-mask-image: -webkit-gradient(linear, left 80%, left bottom, from(rgba(darken($color-black, 10%),1)), to(rgba(darken($color-black, 10%),0)));
+        }
+      }
+
+      #toggleWikiPreview {
+        ~label {
+          margin-left: 28px;
+
+          .slit {
+            height: 19px;
+          }
+        }
+      }
+
+
+      .ai-more {
+        margin-left: 130px !important;
+        .divider {
+          margin-right: 24px;
+        }
+        span {
+          font-size: 13px;
+          // font-weight: bold;
+        }
+      }
+
+      .ai-preview-list {
+        top: 66px;
+        .ai-preview-list-column {
+          &:first-child {
+            transform: translateX(1px);
+          }
+          &:last-child {
+            transform: translateX(-29px);
+          }
+        }
+        .ai-preview-list-item, .ai-preview-list-item:hover {
+          width: 301px;
+          .text {
+            h2 {
+              font-size: 17px;
+              line-height: 1.375;
+              opacity: 0.95;
+
+              i {
+                font-size: 15px;
+              }
+            }
+            h3 {
+              font-size: 15px;
+              line-height: 1.275;
+              opacity: 0.8;
+            }
+          }
+          .starred {
+            width: 24px;
+            .icon-star {
+              display: block;
+            }
+          }
+        }
+      }
+    }
+
+  }
+}

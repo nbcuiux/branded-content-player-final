@@ -1,0 +1,82 @@
+
+<html>
+	<head>
+		<link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900" rel="stylesheet" type="text/css">
+		<link rel="stylesheet" href="assets/css/styles.css">
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		
+		
+		
+
+		<script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+        <script type="text/javascript" src="https://sdk.clarifai.com/js/clarifai-latest.js"></script>
+	</head>
+	<body>
+		<div class="wrapper">
+			<div id="root">
+			</div>
+		</div>
+		<script src="assets/js/main.js"></script>
+		<script src="https://www.gstatic.com/firebasejs/4.8.0/firebase.js"></script>
+<script>
+  // Initialize Firebase
+ 
+</script>
+		
+		<script>
+
+		try {
+    var app1 = new Clarifai.App({
+     apiKey: 'e80d1f58d5ce4417850a70091ba3ba94'
+    });
+  }
+  catch(err) {
+    alert("Need a valid API Key!");
+    throw "Invalid API Key";
+  }
+  
+
+   validFile = (imageName) => {
+    var lowerImageName = imageName.toLowerCase();
+    return lowerImageName.search(/mp4|/gi) != -1;
+  }
+			var options = {
+				playlist: [
+		{
+			videoSrc: "assets/img/mrrobotvideo4new.mp4",
+			coverImgSrc: "assets/img/mrrobotrecording.jpg",
+			title: "eps1.9_zer0-day.avi",
+			subtitle: "Mr Robot • S01 E10",
+			description: "One of Elliot's past hacks comes back to haunt him. Mr. Robot and Tyrell are missing in action."
+		}
+	],
+				initialPlaylistIndex: 0,
+				aspectRatio: 1280/692,
+				endCardShowTime: 12,
+				playNextDelay: 5,
+				controlBarHoverTimeout: 2,
+				playerMode: "vp-mode-vod",
+				endCardLinks: [
+					{
+						text: "Some link 1",
+						url: "http://blah.com"
+					},
+					{
+						text: "Some link 2",
+						url: "http://blah.com"
+					}
+				],
+				adRoll: false,
+				sharePlatforms: ["facebook", "twitter", "pinterest", "googleplus"],
+				allowEmbed: true,
+				allowShare: true,
+				theme: {
+					colorHighlight: "#55CEE2"
+				} 
+			}
+
+			window.mountPlayer(options, document.getElementById('root'));
+
+		</script>
+	</body>
+</html>

@@ -1,0 +1,1703 @@
+{
+  "data": [
+    { 
+      "key1": "girl",
+      "key2": "restaurant",
+      "key3": "woman",
+      "key4": "adult",
+      "key5": "man",
+      "key6": "sunglasses",
+      "key7": "placeholder",
+      "startTime": "02:19",
+      "endTime": "02:25",
+      "src": "assets/img/floral-heart-sunglasses.jpg",
+      "title": "Floral Heart Glasses",
+      "subtitle": "Torrid Fashion",
+      "type": "product",
+      "fullAiCardShowType": "products",
+      "fullAiCardShow": { 
+                         "key":"0",
+                         "characterName": "",
+                         "actorName": "",
+                         "characterImage" :"",
+                         "actorImage":"",
+                         "characterBio": "",
+                         "actorBio": "",
+                          "otherWorks": [
+                                            {
+              "image": "assets/img/busters-mal-heart.jpg",
+              "link": "https://www.rottentomatoes.com/m/busters_mal_heart/",
+              "rottenaudience": "assets/img/greenpopcorn.png",
+              "rottenaudienceScore": "55%",
+              "tomatometer": "assets/img/tomato.png",
+              "tomatometerScore": "71%"
+            },
+            {
+              "image": "assets/img/short-term-12.jpg",
+              "link": "https://www.rottentomatoes.com/m/short_term_12_2013",
+              "rottenaudience": "assets/img/popcorn.png",
+              "rottenaudienceScore": "93%",
+              "tomatometer": "assets/img/fresh.png",
+              "tomatometerScore": "99%"
+            },
+            {
+              "image": "assets/img/aint-them-bodies-saints.jpg",
+              "link": "https://www.rottentomatoes.com/m/aint_them_bodies_saints_2013",
+              "rottenaudience": "assets/img/popcorn.png",
+              "rottenaudienceScore": "61%",
+              "tomatometer": "assets/img/fresh.png",
+              "tomatometerScore": "79%"
+            },
+            {
+              "image": "assets/img/da-sweet-blood-of-jesus.jpg",
+              "link": "https://www.rottentomatoes.com/m/da_sweet_blood_of_jesus",
+              "rottenaudience": "assets/img/greenpopcorn.png",
+              "rottenaudienceScore": "17%",
+              "tomatometer": "assets/img/rotten.png",
+              "tomatometerScore": "44%"
+            },
+            {
+              "image": "assets/img/mr-robot-extra.jpg",
+              "link": "https://www.rottentomatoes.com/tv/mr_robot",
+              "rottenaudience": "assets/img/popcorn.png",
+              "rottenaudienceScore": "92%",
+              "tomatometer": "assets/img/tomato.png",
+              "tomatometerScore": "94%"
+            }
+
+                                        ]
+
+                         
+                        },
+      "addAiStarred":   {
+                        "key":"0",
+                        "type":"product",
+                        "image":"assets/img/floral-heart-sunglasses-lg.jpg",
+                        "title":"Floral Heart Glasses",
+                        "subtitle":"Torrid Fashion",
+                        "jsonFunction": "() => fullAiCardShow(data[0].fullAiCardShowType, data[0].fullAiCardShow)",
+                        "ctas": [
+                                   ["View Product","iconcss icon-product","http://www.torrid.com/product/floral-heart-sunglasses/10265338.html"],
+                                   ["  Go To Scene ","iconcss icon-play-outline"]
+                                ]
+                        }               
+
+    },
+    {
+      "key1": "vehicle",
+      "key2": "car",
+      "key3": "wall",
+      "key4": "adult",
+      "key5": "man",
+      "key6": "bar",
+      "key7": "indoors",
+      "startTime": "00:02",
+      "endTime": "02:05",
+      "src": "assets/img/elliot-alderson.jpg",
+      "title": "Elliot Alderson",
+      "subtitle": "Rami Malek",
+      "type": "person",
+      "fullAiCardShowType": "character",
+      "fullAiCardShow": {
+                         "key":"4",
+                         "characterName": "Elliot Alderson",
+                         "actorName": "Rami Malek",
+                         "characterImage" :"https://vignette.wikia.nocookie.net/mrrobot/images/3/3e/Elliot.jpg/revision/latest/window-crop/width/451/x-offset/0/y-offset/0/window-width/345/window-height/345?cb=20150810201239",
+                         "actorImage":"https://vignette.wikia.nocookie.net/mrrobot/images/8/8f/RMalek.jpg/revision/latest/window-crop/width/451/x-offset/0/y-offset/0/window-width/3744/window-height/4744?cb=20150806150119",
+                         "characterBio": "Elliot Alderson is a cybersecurity engineer and vigilante hacker who lives in New York City. He is played by Rami Malek. Elliot suffers from social anxiety disorder, clinical depression, delusions and paranoia. His internal life is revealed via voice-overs that provide insight into his mental state, his opinions of the people he encounters and the activity around him. These dialogues with the audience are designed to help us interpret Elliot's world, but given his mental illness, he is an unreliable narrator, leaving us unsure whether what he tells us we're seeing is actually what is happening. Typical of this is when Elliot hears everyone around him refer to E Corp as Evil Corp, reflecting his own opinion of the conglomerate.",
+                         "actorBio": "Rami Said Malek, born May 12, 1981, is an American actor. He was born and raised in Los Angeles and has an identical twin, Sami. He is of Egyptian descent; his parents are Coptic Christians who emigrated from Egypt before he was born. Malek studied theater performance and earned a Bachelor of Fine Arts degree at the University of Evansville. He is known for his role as the gay teenage next-door-neighbor, 'Kenny' on the FOX comedy series The War at Home; for his role as Merriell 'Snafu' Shelton in the HBO miniseries The Pacific; his role in 2013's 'Short Term 12' as Nate; and for his role as the pharaoh Ahkmenrah in the feature films Night at the Museum, Night at the Museum: Battle of the Smithsonian, and Night at the Museum: Secret of the Tomb. He also played Benjamin in the final installment of The Twilight Saga: Breaking Dawn. He also played Joshua (Josh) Washington in the hit 2015 video game, Until Dawn.",
+                          "otherWorks": [
+                                            {
+              "image": "assets/img/busters-mal-heart.jpg",
+              "link": "https://www.rottentomatoes.com/m/busters_mal_heart/",
+              "rottenaudience": "assets/img/greenpopcorn.png",
+              "rottenaudienceScore": "55%",
+              "tomatometer": "assets/img/tomato.png",
+              "tomatometerScore": "71%"
+            },
+            {
+              "image": "assets/img/short-term-12.jpg",
+              "link": "https://www.rottentomatoes.com/m/short_term_12_2013",
+              "rottenaudience": "assets/img/popcorn.png",
+              "rottenaudienceScore": "93%",
+              "tomatometer": "assets/img/fresh.png",
+              "tomatometerScore": "99%"
+            },
+            {
+              "image": "assets/img/aint-them-bodies-saints.jpg",
+              "link": "https://www.rottentomatoes.com/m/aint_them_bodies_saints_2013",
+              "rottenaudience": "assets/img/popcorn.png",
+              "rottenaudienceScore": "61%",
+              "tomatometer": "assets/img/fresh.png",
+              "tomatometerScore": "79%"
+            },
+            {
+              "image": "assets/img/da-sweet-blood-of-jesus.jpg",
+              "link": "https://www.rottentomatoes.com/m/da_sweet_blood_of_jesus",
+              "rottenaudience": "assets/img/greenpopcorn.png",
+              "rottenaudienceScore": "17%",
+              "tomatometer": "assets/img/rotten.png",
+              "tomatometerScore": "44%"
+            },
+            {
+              "image": "assets/img/mr-robot-extra.jpg",
+              "link": "https://www.rottentomatoes.com/tv/mr_robot",
+              "rottenaudience": "assets/img/popcorn.png",
+              "rottenaudienceScore": "92%",
+              "tomatometer": "assets/img/tomato.png",
+              "tomatometerScore": "94%"
+            }
+
+                                        ]
+                        },
+      "addAiStarred":   {
+                        "key":"4",
+                        "type":"person",
+                        "image":"https://vignette.wikia.nocookie.net/mrrobot/images/3/3e/Elliot.jpg/revision/latest/window-crop/width/451/x-offset/0/y-offset/0/window-width/345/window-height/345?cb=20150810201239",
+                        "title":"Elliot Alderson",
+                        "subtitle":"Rami Malek",
+                        "jsonFunction": "() => fullAiCardShow(data[18].fullAiCardShowType, data[18].fullAiCardShow)",
+                        "ctas": [
+                                   ["Go To Bio","iconcss icon-person","","data[18].addAiStarred.jsonFunction"],
+                                   ["  Go To Scene  ","iconcss icon-play-outline"]
+                                ]
+                        }               
+    },
+    {
+      "key1": "car",
+      "key2": "placeholder",
+      "key3": "placeholder",
+      "key4": "placeholder",
+      "key5": "placeholder",
+      "key6": "placeholder",
+      "key7": "placeholder",
+      "startTime": "00:00",
+      "endTime": "02:04",
+      "src": "assets/img/cadillac-escalade.jpg",
+      "title": "2017 Cadillac Escalade SUV",
+      "subtitle": "Cadillac",
+      "type": "product",
+      "fullAiCardShowType": "products",
+      "fullAiCardShow": { 
+                         "key":"3",
+                         "characterName": "",
+                         "actorName": "",
+                         "characterImage" :"",
+                         "actorImage":"",
+                         "characterBio": "",
+                         "actorBio": "",
+                          "otherWorks": [
+                                           {
+              "image": "assets/img/busters-mal-heart.jpg",
+              "link": "https://www.rottentomatoes.com/m/busters_mal_heart/",
+              "rottenaudience": "assets/img/greenpopcorn.png",
+              "rottenaudienceScore": "55%",
+              "tomatometer": "assets/img/tomato.png",
+              "tomatometerScore": "71%"
+            },
+            {
+              "image": "assets/img/short-term-12.jpg",
+              "link": "https://www.rottentomatoes.com/m/short_term_12_2013",
+              "rottenaudience": "assets/img/popcorn.png",
+              "rottenaudienceScore": "93%",
+              "tomatometer": "assets/img/fresh.png",
+              "tomatometerScore": "99%"
+            },
+            {
+              "image": "assets/img/aint-them-bodies-saints.jpg",
+              "link": "https://www.rottentomatoes.com/m/aint_them_bodies_saints_2013",
+              "rottenaudience": "assets/img/popcorn.png",
+              "rottenaudienceScore": "61%",
+              "tomatometer": "assets/img/fresh.png",
+              "tomatometerScore": "79%"
+            },
+            {
+              "image": "assets/img/da-sweet-blood-of-jesus.jpg",
+              "link": "https://www.rottentomatoes.com/m/da_sweet_blood_of_jesus",
+              "rottenaudience": "assets/img/greenpopcorn.png",
+              "rottenaudienceScore": "17%",
+              "tomatometer": "assets/img/rotten.png",
+              "tomatometerScore": "44%"
+            },
+            {
+              "image": "assets/img/mr-robot-extra.jpg",
+              "link": "https://www.rottentomatoes.com/tv/mr_robot",
+              "rottenaudience": "assets/img/popcorn.png",
+              "rottenaudienceScore": "92%",
+              "tomatometer": "assets/img/tomato.png",
+              "tomatometerScore": "94%"
+            }
+
+                                        ]
+
+                         
+                        },
+      "addAiStarred":   {
+                        "key":"3",
+                        "type":"product",
+                        "image":"assets/img/cadillac-escalade-lg.jpg",
+                        "title":"2017 Cadillac Escalade SUV",
+                        "subtitle":"Cadillac",
+                        "jsonFunction": "() => fullAiCardShow(data[2].fullAiCardShowType, data[2].fullAiCardShow)",
+                        "ctas": [
+                                   ["View Product ","iconcss icon-product","http://www.cadillac.com/preceding-year/escalade-suv.html"],
+                                   [" Go To Scene   ","iconcss icon-play-outline"]
+                                ]
+                        }       
+    },
+    {
+      "key1": "girl",
+      "key2": "restaurant",
+      "key3": "woman",
+      "key4": "adult",
+      "key5": "man",
+      "key6": "placeholder",
+      "key7": "placeholder",
+      "startTime": "02:05",
+      "endTime": "03:14",
+      "src": "assets/img/darlene-alderson.jpg",
+      "title": "Darlene Alderson",
+      "subtitle": "Carly Chaikin",
+      "type": "person",
+      "fullAiCardShowType": "character",
+      "fullAiCardShow": {
+                         "key":"2",
+                         "characterName": "Darlene Alderson",
+                         "actorName": "Carly Chaikin",
+                         "characterImage" :"https://vignette.wikia.nocookie.net/mrrobot/images/1/11/Darlene.jpg/revision/latest/window-crop/width/451/x-offset/0/y-offset/0/window-width/347/window-height/347?cb=20150810195444",
+                         "actorImage":"https://vignette.wikia.nocookie.net/mrrobot/images/c/ca/CChaikin.jpg/revision/latest/window-crop/width/451/x-offset/0/y-offset/0/window-width/932/window-height/932?cb=20150806144631",
+                         "characterBio": "Darlene was born on November 5, 1990. She states she was 4 years old when she first saw Susan Jacobs when E Corp was vindicated in the Washington Township trial. Her father, Edward Alderson, died on February 28, 1995. Her mother, Magda, was abusive toward her and her brother. When she was 5, she was kidnapped by a woman during a family trip to an amusement park. She slept at the woman's house, in a pink bedroom, and awoke the next morning to the police. Darlene recalls the experience somewhat fondly. However, in contrast to her story, her father was dead by the time she turned five on November 5, 1995.",
+                         "actorBio": "Carly Hannah Chaikin (born March 26, 1990) is an American actress. She got her breakout role in the film The Last Song, and starred as Dalia Royce in the sitcom Suburgatory.",
+                          "otherWorks": [
+                                            {
+              "image": "assets/img/busters-mal-heart.jpg",
+              "link": "https://www.rottentomatoes.com/m/busters_mal_heart/",
+              "rottenaudience": "assets/img/greenpopcorn.png",
+              "rottenaudienceScore": "55%",
+              "tomatometer": "assets/img/tomato.png",
+              "tomatometerScore": "71%"
+            },
+            {
+              "image": "assets/img/short-term-12.jpg",
+              "link": "https://www.rottentomatoes.com/m/short_term_12_2013",
+              "rottenaudience": "assets/img/popcorn.png",
+              "rottenaudienceScore": "93%",
+              "tomatometer": "assets/img/fresh.png",
+              "tomatometerScore": "99%"
+            },
+            {
+              "image": "assets/img/aint-them-bodies-saints.jpg",
+              "link": "https://www.rottentomatoes.com/m/aint_them_bodies_saints_2013",
+              "rottenaudience": "assets/img/popcorn.png",
+              "rottenaudienceScore": "61%",
+              "tomatometer": "assets/img/fresh.png",
+              "tomatometerScore": "79%"
+            },
+            {
+              "image": "assets/img/da-sweet-blood-of-jesus.jpg",
+              "link": "https://www.rottentomatoes.com/m/da_sweet_blood_of_jesus",
+              "rottenaudience": "assets/img/greenpopcorn.png",
+              "rottenaudienceScore": "17%",
+              "tomatometer": "assets/img/rotten.png",
+              "tomatometerScore": "44%"
+            },
+            {
+              "image": "assets/img/mr-robot-extra.jpg",
+              "link": "https://www.rottentomatoes.com/tv/mr_robot",
+              "rottenaudience": "assets/img/popcorn.png",
+              "rottenaudienceScore": "92%",
+              "tomatometer": "assets/img/tomato.png",
+              "tomatometerScore": "94%"
+            }
+
+                                        ]
+                        },
+      "addAiStarred":   {
+                        "key":"2",
+                        "type":"person",
+                        "image":"https://vignette.wikia.nocookie.net/mrrobot/images/1/11/Darlene.jpg/revision/latest/window-crop/width/451/x-offset/0/y-offset/0/window-width/347/window-height/347?cb=20150810195444",
+                        "title":"Darlene Alderson",
+                        "subtitle":"Carly Chaikin",
+                        "jsonFunction": "() => fullAiCardShow(data[3].fullAiCardShowType, data[3].fullAiCardShow)",
+                        "ctas": [
+                                   ["Go To Bio ","iconcss icon-person","","data[3].addAiStarred.jsonFunction"],
+                                   ["  Go To Scene ","iconcss icon-play-outline"]
+                                ]
+                        }        
+    },
+    {
+      "key1": "musician",
+      "key2": "music",
+      "key3": "restaurant",
+      "key4": "placeholder",
+      "key5": "placeholder",
+      "key6": "placeholder",
+      "key7": "placeholder",
+      "startTime": "02:05",
+      "endTime": "03:14",
+      "src": "assets/img/sound-and-color.jpg",
+      "title": "Sound and Color",
+      "subtitle": "Alabama Shakes",
+      "type": "music",
+      "fullAiCardShowType": "music",
+      "fullAiCardShow": { 
+                         "key":"1",
+                         "characterName": "",
+                         "actorName": "",
+                         "characterImage" :"",
+                         "actorImage":"",
+                         "characterBio": "",
+                         "actorBio": "",
+                          "otherWorks": [
+                                           {
+              "image": "assets/img/busters-mal-heart.jpg",
+              "link": "https://www.rottentomatoes.com/m/busters_mal_heart/",
+              "rottenaudience": "assets/img/greenpopcorn.png",
+              "rottenaudienceScore": "55%",
+              "tomatometer": "assets/img/tomato.png",
+              "tomatometerScore": "71%"
+            },
+            {
+              "image": "assets/img/short-term-12.jpg",
+              "link": "https://www.rottentomatoes.com/m/short_term_12_2013",
+              "rottenaudience": "assets/img/popcorn.png",
+              "rottenaudienceScore": "93%",
+              "tomatometer": "assets/img/fresh.png",
+              "tomatometerScore": "99%"
+            },
+            {
+              "image": "assets/img/aint-them-bodies-saints.jpg",
+              "link": "https://www.rottentomatoes.com/m/aint_them_bodies_saints_2013",
+              "rottenaudience": "assets/img/popcorn.png",
+              "rottenaudienceScore": "61%",
+              "tomatometer": "assets/img/fresh.png",
+              "tomatometerScore": "79%"
+            },
+            {
+              "image": "assets/img/da-sweet-blood-of-jesus.jpg",
+              "link": "https://www.rottentomatoes.com/m/da_sweet_blood_of_jesus",
+              "rottenaudience": "assets/img/greenpopcorn.png",
+              "rottenaudienceScore": "17%",
+              "tomatometer": "assets/img/rotten.png",
+              "tomatometerScore": "44%"
+            },
+            {
+              "image": "assets/img/mr-robot-extra.jpg",
+              "link": "https://www.rottentomatoes.com/tv/mr_robot",
+              "rottenaudience": "assets/img/popcorn.png",
+              "rottenaudienceScore": "92%",
+              "tomatometer": "assets/img/tomato.png",
+              "tomatometerScore": "94%"
+            }
+
+                                        ]
+
+                         
+                        },
+      "addAiStarred":   {
+                        "key":"1",
+                        "type":"music",
+                        "image":"assets/img/sound-and-color-lg.jpg",
+                        "title":"Sound and Color",
+                        "subtitle":"Alabama Shakes",
+                        "jsonFunction": "() => fullAiCardShow(data[4].fullAiCardShowType, data[4].fullAiCardShow)",
+                        "ctas": [
+                                   ["View Song","iconcss icon-music","https://open.spotify.com/track/65wx71brAmEQz66GXXF8gI"],
+                                   [" Go To Scene  ","iconcss icon-play-outline"]
+                                ]
+                        }               
+    },
+    {
+      "key1": " ",
+      "key2": "placeholder",
+      "key3": "placeholder",
+      "key4": "placeholder",
+      "key5": "placeholder",
+      "key6": "placeholder",
+      "key7": "placeholder",
+      "startTime": "00:12",
+      "endTime": "02:05",
+      "title": "General Trivia",
+      "subtitle": "Throughout the episode, Elliot references 'IRC.' Standing for Internet Relay Chat, IRC is an application protocol that allows for plaintext communication via a client/server model. A server hosts a 'channel' where users can join to discuss various topics. However, 'robots' are prevalent on servers. These allow users to communicate with the server itself, and request file transfers. There is a major presence of illegal file transfers facilitated by the use of these robots.",
+      "type": "trivia",
+      "fullAiCardShowType": "trivia",
+      "fullAiCardShow": {
+                         "key":"28",
+                         "characterName": "",
+                         "actorName": "",
+                         "characterImage" :"",
+                         "actorImage":"",
+                         "characterBio": "",
+                         "actorBio": "",
+                          "otherWorks": [
+                                            {
+              "image": "assets/img/busters-mal-heart.jpg",
+              "link": "https://www.rottentomatoes.com/m/busters_mal_heart/",
+              "rottenaudience": "assets/img/greenpopcorn.png",
+              "rottenaudienceScore": "55%",
+              "tomatometer": "assets/img/tomato.png",
+              "tomatometerScore": "71%"
+            },
+            {
+              "image": "assets/img/short-term-12.jpg",
+              "link": "https://www.rottentomatoes.com/m/short_term_12_2013",
+              "rottenaudience": "assets/img/popcorn.png",
+              "rottenaudienceScore": "93%",
+              "tomatometer": "assets/img/fresh.png",
+              "tomatometerScore": "99%"
+            },
+            {
+              "image": "assets/img/aint-them-bodies-saints.jpg",
+              "link": "https://www.rottentomatoes.com/m/aint_them_bodies_saints_2013",
+              "rottenaudience": "assets/img/popcorn.png",
+              "rottenaudienceScore": "61%",
+              "tomatometer": "assets/img/fresh.png",
+              "tomatometerScore": "79%"
+            },
+            {
+              "image": "assets/img/da-sweet-blood-of-jesus.jpg",
+              "link": "https://www.rottentomatoes.com/m/da_sweet_blood_of_jesus",
+              "rottenaudience": "assets/img/greenpopcorn.png",
+              "rottenaudienceScore": "17%",
+              "tomatometer": "assets/img/rotten.png",
+              "tomatometerScore": "44%"
+            },
+            {
+              "image": "assets/img/mr-robot-extra.jpg",
+              "link": "https://www.rottentomatoes.com/tv/mr_robot",
+              "rottenaudience": "assets/img/popcorn.png",
+              "rottenaudienceScore": "92%",
+              "tomatometer": "assets/img/tomato.png",
+              "tomatometerScore": "94%"
+            }
+
+                                        ]
+                        },
+      "addAiStarred":   {
+                        "key":"28",
+                        "type":"trivia",
+                        "image":"assets/img/trivia-1.jpg",
+                        "title":"General Trivia",
+                        "subtitle":"Scene 1 — 00:00:00",
+                        "quote": "Throughout the episode, Elliot references 'IRC.' Standing for Internet Relay Chat, IRC is an application protocol that allows for plaintext communication via a client/server model. A server hosts a 'channel' where users can join to discuss various topics. However, 'robots' are prevalent on servers. These allow users to communicate with the server itself, and request file transfers. There is a major presence of illegal file transfers facilitated by the use of these robots.",
+                        "jsonFunction": "",
+                        "ctas": [
+                                    ["  Go To Scene",  "iconcss icon-play-outline"]
+                          
+                                ]
+                        }        
+    },
+    {
+      "key1": "vehicle",
+      "key2": "car",
+      "key3": "wall",
+      "key4": "placeholder",
+      "key5": "placeholder",
+      "key6": "placeholder",
+      "key7": "placeholder",
+      "startTime": "01:11",
+      "endTime": "03:00",
+      "title": "Fun Fact",
+      "subtitle": "Elliot's black hoodie is from Rami Malek's own personal wardrobe.",
+      "type": "trivia",
+      "fullAiCardShowType": "trivia",
+      "fullAiCardShow": {
+
+                         "key":"30",
+                         "characterName": "",
+                         "actorName": "",
+                         "characterImage" :"",
+                         "actorImage":"",
+                         "characterBio": "",
+                         "actorBio": "",
+                          "otherWorks": [
+                                           {
+              "image": "assets/img/busters-mal-heart.jpg",
+              "link": "https://www.rottentomatoes.com/m/busters_mal_heart/",
+              "rottenaudience": "assets/img/greenpopcorn.png",
+              "rottenaudienceScore": "55%",
+              "tomatometer": "assets/img/tomato.png",
+              "tomatometerScore": "71%"
+            },
+            {
+              "image": "assets/img/short-term-12.jpg",
+              "link": "https://www.rottentomatoes.com/m/short_term_12_2013",
+              "rottenaudience": "assets/img/popcorn.png",
+              "rottenaudienceScore": "93%",
+              "tomatometer": "assets/img/fresh.png",
+              "tomatometerScore": "99%"
+            },
+            {
+              "image": "assets/img/aint-them-bodies-saints.jpg",
+              "link": "https://www.rottentomatoes.com/m/aint_them_bodies_saints_2013",
+              "rottenaudience": "assets/img/popcorn.png",
+              "rottenaudienceScore": "61%",
+              "tomatometer": "assets/img/fresh.png",
+              "tomatometerScore": "79%"
+            },
+            {
+              "image": "assets/img/da-sweet-blood-of-jesus.jpg",
+              "link": "https://www.rottentomatoes.com/m/da_sweet_blood_of_jesus",
+              "rottenaudience": "assets/img/greenpopcorn.png",
+              "rottenaudienceScore": "17%",
+              "tomatometer": "assets/img/rotten.png",
+              "tomatometerScore": "44%"
+            },
+            {
+              "image": "assets/img/mr-robot-extra.jpg",
+              "link": "https://www.rottentomatoes.com/tv/mr_robot",
+              "rottenaudience": "assets/img/popcorn.png",
+              "rottenaudienceScore": "92%",
+              "tomatometer": "assets/img/tomato.png",
+              "tomatometerScore": "94%"
+            }
+
+                                        ]
+                        },
+      "addAiStarred":   {
+                        "key":"30",
+                        "type":"trivia",
+                        "image":"assets/img/trivia-2.jpg",
+                        "title":"Fun Fact",
+                        "subtitle":"Scene 2 — 00:00:55",
+                        "quote": "Elliot's black hoodie is from Rami Malek's own personal wardrobe.",
+                        "jsonFunction": "",
+                        "ctas": [
+                                    ["   Go To Scene",  "iconcss icon-play-outline"]
+                          
+                                ]
+                        }        
+    },
+     {
+      "key1": "girl",
+      "key2": "restaurant",
+      "key3": "woman",
+      "key4": "adult",
+      "key5": "man",
+      "key6": "placeholder",
+      "key7": "placeholder",
+      "startTime": "02:31",
+      "endTime": "03:14",
+      "title": "Fun Fact",
+      "subtitle": "Carly Chaikin auditioned for the roles of both Angela and Darlene.",
+      "type": "trivia",
+      "fullAiCardShowType": "trivia",
+      "fullAiCardShow": {
+                         "key":"29",
+                         "characterName": "",
+                         "actorName": "",
+                         "characterImage" :"",
+                         "actorImage":"",
+                         "characterBio": "",
+                         "actorBio": "",
+                          "otherWorks": [
+                                           {
+              "image": "assets/img/busters-mal-heart.jpg",
+              "link": "https://www.rottentomatoes.com/m/busters_mal_heart/",
+              "rottenaudience": "assets/img/greenpopcorn.png",
+              "rottenaudienceScore": "55%",
+              "tomatometer": "assets/img/tomato.png",
+              "tomatometerScore": "71%"
+            },
+            {
+              "image": "assets/img/short-term-12.jpg",
+              "link": "https://www.rottentomatoes.com/m/short_term_12_2013",
+              "rottenaudience": "assets/img/popcorn.png",
+              "rottenaudienceScore": "93%",
+              "tomatometer": "assets/img/fresh.png",
+              "tomatometerScore": "99%"
+            },
+            {
+              "image": "assets/img/aint-them-bodies-saints.jpg",
+              "link": "https://www.rottentomatoes.com/m/aint_them_bodies_saints_2013",
+              "rottenaudience": "assets/img/popcorn.png",
+              "rottenaudienceScore": "61%",
+              "tomatometer": "assets/img/fresh.png",
+              "tomatometerScore": "79%"
+            },
+            {
+              "image": "assets/img/da-sweet-blood-of-jesus.jpg",
+              "link": "https://www.rottentomatoes.com/m/da_sweet_blood_of_jesus",
+              "rottenaudience": "assets/img/greenpopcorn.png",
+              "rottenaudienceScore": "17%",
+              "tomatometer": "assets/img/rotten.png",
+              "tomatometerScore": "44%"
+            },
+            {
+              "image": "assets/img/mr-robot-extra.jpg",
+              "link": "https://www.rottentomatoes.com/tv/mr_robot",
+              "rottenaudience": "assets/img/popcorn.png",
+              "rottenaudienceScore": "92%",
+              "tomatometer": "assets/img/tomato.png",
+              "tomatometerScore": "94%"
+            }
+
+                                        ]
+                        },
+      "addAiStarred":   {
+                        "key":"29",
+                        "type":"trivia",
+                        "image":"assets/img/trivia-3.jpg",
+                        "title":"Fun Fact",
+                        "subtitle":"Scene 3 — 00:02:05",
+                        "quote": "Carly Chaikin auditioned for the roles of both Angela and Darlene.",
+                        "jsonFunction": "",
+                        "ctas": [
+                                    ["       Go To Scene ",  "iconcss icon-play-outline"]
+                          
+                                ]
+                        }        
+    },
+    
+    {
+      "key1": "woman",
+      "key2": "girl",
+      "key3": "indoors",
+      "key4": "room",
+      "key5": "furniture",
+      "key6": "placeholder",
+      "key7": "placeholder",
+      "startTime": "03:16",
+      "endTime": "05:01",
+      "src": "assets/img/angela-moss-sm.jpg",
+      "title": "Angela Moss",
+      "subtitle": "Portia Doubleday",
+      "type": "person",
+      "fullAiCardShowType": "character",
+      "fullAiCardShow": {
+                         "key":"13",
+                         "characterName": "Angela Moss",
+                         "actorName": "Portia Doubleday",
+                         "characterImage" :"https://vignette.wikia.nocookie.net/mrrobot/images/d/d1/AMoss.jpg/revision/latest/window-crop/width/451/x-offset/0/y-offset/0/window-width/629/window-height/629?cb=20150809224155",
+                         "actorImage":"https://vignette.wikia.nocookie.net/mrrobot/images/f/fc/PDoubleday.jpg/revision/latest/window-crop/width/451/x-offset/0/y-offset/0/window-width/1277/window-height/1277?cb=20150806150730",
+                         "characterBio": "Angela Moss is a childhood friend of Elliot Alderson. She is portrayed by Portia Doubleday. Angela was born on February 27, 1988, in New Jersey to Phillip Price and Emily Moss, but Emily refused to be with Phillip, instead choosing to marry Donald Moss, who became her adopted father. She is an only child. Her mother died as a result of the Washington Township leak of 1993. In the aftermath, she became friends with Darlene and Elliot Alderson, with whom she shared a love for the book From the Mixed-Up Files of Mrs. Basil E. Frankweiler. Angela fondly remembers wanting to be like Claudia Kincaid, the story's adventurous heroine. She also remembers the Aldersons subjecting her to their favorite movie, The Careful Massacre of the Bourgeoisie, every Halloween.",
+                         "actorBio": "Angela was born on February 27, 1988, in New Jersey to Phillip Price and Emily Moss, but Emily refused to be with Phillip, instead choosing to marry Donald Moss, who became her adopted father. She is an only child. Her mother died as a result of the Washington Township leak of 1993. In the aftermath, she became friends with Darlene and Elliot Alderson, with whom she shared a love for the book From the Mixed-Up Files of Mrs. Basil E. Frankweiler. Angela fondly remembers wanting to be like Claudia Kincaid, the story's adventurous heroine. She also remembers the Aldersons subjecting her to their favorite movie, The Careful Massacre of the Bourgeoisie, every Halloween.",
+                          "otherWorks": [
+                                           {
+              "image": "assets/img/busters-mal-heart.jpg",
+              "link": "https://www.rottentomatoes.com/m/busters_mal_heart/",
+              "rottenaudience": "assets/img/greenpopcorn.png",
+              "rottenaudienceScore": "55%",
+              "tomatometer": "assets/img/tomato.png",
+              "tomatometerScore": "71%"
+            },
+            {
+              "image": "assets/img/short-term-12.jpg",
+              "link": "https://www.rottentomatoes.com/m/short_term_12_2013",
+              "rottenaudience": "assets/img/popcorn.png",
+              "rottenaudienceScore": "93%",
+              "tomatometer": "assets/img/fresh.png",
+              "tomatometerScore": "99%"
+            },
+            {
+              "image": "assets/img/aint-them-bodies-saints.jpg",
+              "link": "https://www.rottentomatoes.com/m/aint_them_bodies_saints_2013",
+              "rottenaudience": "assets/img/popcorn.png",
+              "rottenaudienceScore": "61%",
+              "tomatometer": "assets/img/fresh.png",
+              "tomatometerScore": "79%"
+            },
+            {
+              "image": "assets/img/da-sweet-blood-of-jesus.jpg",
+              "link": "https://www.rottentomatoes.com/m/da_sweet_blood_of_jesus",
+              "rottenaudience": "assets/img/greenpopcorn.png",
+              "rottenaudienceScore": "17%",
+              "tomatometer": "assets/img/rotten.png",
+              "tomatometerScore": "44%"
+            },
+            {
+              "image": "assets/img/mr-robot-extra.jpg",
+              "link": "https://www.rottentomatoes.com/tv/mr_robot",
+              "rottenaudience": "assets/img/popcorn.png",
+              "rottenaudienceScore": "92%",
+              "tomatometer": "assets/img/tomato.png",
+              "tomatometerScore": "94%"
+            }
+
+                                        ]
+                        },
+      "addAiStarred":   {
+                        "key":"13",
+                        "type":"person",
+                        "image":"https://vignette.wikia.nocookie.net/mrrobot/images/d/d1/AMoss.jpg/revision/latest/window-crop/width/451/x-offset/0/y-offset/0/window-width/629/window-height/629?cb=20150809224155",
+                        "title":"Angela Moss",
+                        "subtitle":"Portia Doubleday",
+                        "jsonFunction": "() => fullAiCardShow(data[8].fullAiCardShowType, data[8].fullAiCardShow)",
+                        "ctas": [
+                                   ["Go To Bio   ","iconcss icon-person","","data[8].addAiStarred.jsonFunction"],
+                                   [" Go To Scene    ","iconcss icon-play-outline"]
+                                ]
+                        }               
+    },
+    {
+      "key1": "system",
+      "key2": "blur",
+      "key3": "placeholder",
+      "key4": "placeholder",
+      "key5": "placeholder",
+      "key6": "placeholder",
+      "key7": "placeholder",
+      "startTime": "01:27",
+      "endTime": "01:37",
+      "src": "assets/img/flash-drive-sm.jpg",
+      "title": "DUO 32GB Micro USB FD",
+      "subtitle": "Samsung at BestBuy",
+      "type": "product",
+      "fullAiCardShowType": "products",
+      "fullAiCardShow": { 
+                         "key":"11",
+                         "characterName": "",
+                         "actorName": "",
+                         "characterImage" :"",
+                         "actorImage":"",
+                         "characterBio": "",
+                         "actorBio": "",
+                          "otherWorks": [
+                                           {
+              "image": "assets/img/busters-mal-heart.jpg",
+              "link": "https://www.rottentomatoes.com/m/busters_mal_heart/",
+              "rottenaudience": "assets/img/greenpopcorn.png",
+              "rottenaudienceScore": "55%",
+              "tomatometer": "assets/img/tomato.png",
+              "tomatometerScore": "71%"
+            },
+            {
+              "image": "assets/img/short-term-12.jpg",
+              "link": "https://www.rottentomatoes.com/m/short_term_12_2013",
+              "rottenaudience": "assets/img/popcorn.png",
+              "rottenaudienceScore": "93%",
+              "tomatometer": "assets/img/fresh.png",
+              "tomatometerScore": "99%"
+            },
+            {
+              "image": "assets/img/aint-them-bodies-saints.jpg",
+              "link": "https://www.rottentomatoes.com/m/aint_them_bodies_saints_2013",
+              "rottenaudience": "assets/img/popcorn.png",
+              "rottenaudienceScore": "61%",
+              "tomatometer": "assets/img/fresh.png",
+              "tomatometerScore": "79%"
+            },
+            {
+              "image": "assets/img/da-sweet-blood-of-jesus.jpg",
+              "link": "https://www.rottentomatoes.com/m/da_sweet_blood_of_jesus",
+              "rottenaudience": "assets/img/greenpopcorn.png",
+              "rottenaudienceScore": "17%",
+              "tomatometer": "assets/img/rotten.png",
+              "tomatometerScore": "44%"
+            },
+            {
+              "image": "assets/img/mr-robot-extra.jpg",
+              "link": "https://www.rottentomatoes.com/tv/mr_robot",
+              "rottenaudience": "assets/img/popcorn.png",
+              "rottenaudienceScore": "92%",
+              "tomatometer": "assets/img/tomato.png",
+              "tomatometerScore": "94%"
+            }
+
+                                        ]
+
+                         
+                        },
+      "addAiStarred":   {
+                        "key":"11",
+                        "type":"product",
+                        "image":"assets/img/flash-drive-lg.jpg",
+                        "title":"DUO 32GB Micro USB FD",
+                        "subtitle":"Samsung at BestBuy",
+                        "jsonFunction": "() => fullAiCardShow(data[9].fullAiCardShowType, data[9].fullAiCardShow)",
+                        "ctas": [
+                                   ["View Product  ","iconcss icon-product","https://www.bestbuy.com/site/samsung-duo-32gb-usb-3-0-micro-usb-flash-drive/5512800.p"],
+                                   ["Go To Scene    ","iconcss icon-play-outline"]
+                                ]
+                        }         
+    },
+     {
+      "key1": "vehicle",
+      "key2": "car",
+      "key3": "wall",
+      "key4": "placeholder",
+      "key5": "placeholder",
+      "key6": "placeholder",
+      "key7": "placeholder",
+      "startTime": "00:55",
+      "endTime": "02:05",
+      "src": "assets/img/world-destruction-sm.jpg",
+      "title": "World Destruction (feat. John Lydon)",
+      "subtitle": "Time Zone feat. John Lydon",
+      "type": "music",
+      "fullAiCardShowType": "music",
+      "fullAiCardShow": { 
+                         "key":"9",
+                         "characterName": "",
+                         "actorName": "",
+                         "characterImage" :"",
+                         "actorImage":"",
+                         "characterBio": "",
+                         "actorBio": "",
+                          "otherWorks": [
+                                           {
+              "image": "assets/img/busters-mal-heart.jpg",
+              "link": "https://www.rottentomatoes.com/m/busters_mal_heart/",
+              "rottenaudience": "assets/img/greenpopcorn.png",
+              "rottenaudienceScore": "55%",
+              "tomatometer": "assets/img/tomato.png",
+              "tomatometerScore": "71%"
+            },
+            {
+              "image": "assets/img/short-term-12.jpg",
+              "link": "https://www.rottentomatoes.com/m/short_term_12_2013",
+              "rottenaudience": "assets/img/popcorn.png",
+              "rottenaudienceScore": "93%",
+              "tomatometer": "assets/img/fresh.png",
+              "tomatometerScore": "99%"
+            },
+            {
+              "image": "assets/img/aint-them-bodies-saints.jpg",
+              "link": "https://www.rottentomatoes.com/m/aint_them_bodies_saints_2013",
+              "rottenaudience": "assets/img/popcorn.png",
+              "rottenaudienceScore": "61%",
+              "tomatometer": "assets/img/fresh.png",
+              "tomatometerScore": "79%"
+            },
+            {
+              "image": "assets/img/da-sweet-blood-of-jesus.jpg",
+              "link": "https://www.rottentomatoes.com/m/da_sweet_blood_of_jesus",
+              "rottenaudience": "assets/img/greenpopcorn.png",
+              "rottenaudienceScore": "17%",
+              "tomatometer": "assets/img/rotten.png",
+              "tomatometerScore": "44%"
+            },
+            {
+              "image": "assets/img/mr-robot-extra.jpg",
+              "link": "https://www.rottentomatoes.com/tv/mr_robot",
+              "rottenaudience": "assets/img/popcorn.png",
+              "rottenaudienceScore": "92%",
+              "tomatometer": "assets/img/tomato.png",
+              "tomatometerScore": "94%"
+            }
+
+                                        ]
+
+                         
+                        },
+      "addAiStarred":   {
+                        "key":"9",
+                        "type":"music",
+                        "image":"assets/img/world-destruction.jpg",
+                        "title":"World Destruction (feat. John Lydon)",
+                        "subtitle":"Time Zone feat. John Lydon",
+                        "jsonFunction": "() => fullAiCardShow(data[10].fullAiCardShowType, data[10].fullAiCardShow)",
+                        "ctas": [
+                                   ["View Song ","iconcss icon-music","https://open.spotify.com/track/3yA4Rwh8tA3jyVkdWXyzCg"],
+                                   ["Go To Scene      ","iconcss icon-play-outline"]
+                                ]
+                        }           
+    },
+    {
+      "key1": "woman",
+      "key2": "girl",
+      "key3": "indoors",
+      "key4": "room",
+      "key5": "furniture",
+      "key6": "placeholder",
+      "key7": "placeholder",
+      "startTime": "03:16",
+      "endTime": "05:01",
+      "title": "Other Trivia",
+      "subtitle": "Portia Doubleday has been hacked many times in real life. Once, hackers got hold of her travel plans and found that she would be unreachable during a flight to Los Angeles. They called her grandmother and pretended to have kidnapped her, demanding a ransom in exchange for Doubleday\'s safe return.",
+      "type": "trivia",
+      "fullAiCardShowType": "trivia",
+      "fullAiCardShow": {
+                         "key":"32",
+                         "characterName": "",
+                         "actorName": "",
+                         "characterImage" :"",
+                         "actorImage":"",
+                         "characterBio": "",
+                         "actorBio": "",
+                          "otherWorks": [
+                                           {
+              "image": "assets/img/busters-mal-heart.jpg",
+              "link": "https://www.rottentomatoes.com/m/busters_mal_heart/",
+              "rottenaudience": "assets/img/greenpopcorn.png",
+              "rottenaudienceScore": "55%",
+              "tomatometer": "assets/img/tomato.png",
+              "tomatometerScore": "71%"
+            },
+            {
+              "image": "assets/img/short-term-12.jpg",
+              "link": "https://www.rottentomatoes.com/m/short_term_12_2013",
+              "rottenaudience": "assets/img/popcorn.png",
+              "rottenaudienceScore": "93%",
+              "tomatometer": "assets/img/fresh.png",
+              "tomatometerScore": "99%"
+            },
+            {
+              "image": "assets/img/aint-them-bodies-saints.jpg",
+              "link": "https://www.rottentomatoes.com/m/aint_them_bodies_saints_2013",
+              "rottenaudience": "assets/img/popcorn.png",
+              "rottenaudienceScore": "61%",
+              "tomatometer": "assets/img/fresh.png",
+              "tomatometerScore": "79%"
+            },
+            {
+              "image": "assets/img/da-sweet-blood-of-jesus.jpg",
+              "link": "https://www.rottentomatoes.com/m/da_sweet_blood_of_jesus",
+              "rottenaudience": "assets/img/greenpopcorn.png",
+              "rottenaudienceScore": "17%",
+              "tomatometer": "assets/img/rotten.png",
+              "tomatometerScore": "44%"
+            },
+            {
+              "image": "assets/img/mr-robot-extra.jpg",
+              "link": "https://www.rottentomatoes.com/tv/mr_robot",
+              "rottenaudience": "assets/img/popcorn.png",
+              "rottenaudienceScore": "92%",
+              "tomatometer": "assets/img/tomato.png",
+              "tomatometerScore": "94%"
+            }
+
+                                        ]
+                        },
+      "addAiStarred":   {
+                        "key":"32",
+                        "type":"trivia",
+                        "image":"assets/img/trivia-4.jpg",
+                        "title":"Other Trivia",
+                        "subtitle":"Scene 4 — 00:03:14",
+                        "quote": "Portia Doubleday has been hacked many times in real life. Once, hackers got hold of her travel plans and found that she would be unreachable during a flight to Los Angeles. They called her grandmother and pretended to have kidnapped her, demanding a ransom in exchange for Doubleday\'s safe return.",
+                        "jsonFunction": "",
+                        "ctas": [
+                                    ["     Go To Scene  ",  "iconcss icon-play-outline"]
+                          
+                                ]
+                        }                   
+    },
+   {
+      "key1": "girl",
+      "key2": "restaurant",
+      "key3": "woman",
+      "key4": "adult",
+      "key5": "man",
+      "key6": "placeholder",
+      "key7": "placeholder",
+      "startTime": "02:06",
+      "endTime": "02:18",
+      "src": "assets/img/trenton.jpg",
+      "title": "Trenton",
+      "subtitle": "Sunita Mani",
+      "type": "person",
+      "fullAiCardShowType": "character",
+      "fullAiCardShow": {
+                         "key":"14",
+                         "characterName": "Trenton",
+                         "actorName": "Sunita Mani",
+                         "characterImage" :"https://vignette.wikia.nocookie.net/mrrobot/images/1/1e/Trenton.png/revision/latest/window-crop/width/451/x-offset/0/y-offset/0/window-width/265/window-height/265?cb=20150810142611",
+                         "actorImage":"https://vignette.wikia.nocookie.net/mrrobot/images/c/c7/SMani.jpg/revision/latest/window-crop/width/451/x-offset/0/y-offset/0/window-width/497/window-height/750?cb=20160602025229",
+                         "characterBio": "Trenton's parents are Iranian immigrants who came to America for freedom. Her father, Arash, works 60-hour weeks to find tax loopholes for a millionaire art dealer. Her mother ran up a five-figure debt earning an online degree. She was born in Mashhad, Iran and later moved to Trenton, NJ where her younger brother Mohammed was born. The family lives together in Brooklyn, and she is a student at NYU. Having grown up in the city, she doesn't know how to drive. She has an uncle who lives in Connecticut. She would often trip when putting on her shoes at the mosque.",
+                         "actorBio": "Sunita Mani is an american actress and dancer. Her works include improv comedy, commercials, writings, and short ﬁlms. Her most important role in a series has been in Mr. Robot, where she portrays the character Trenton. She has a comedy dance group called Cocoon Central Dance Team and has appeared in many music videos including 'Turn Down for What'",
+                          "otherWorks": [
+                                           {
+              "image": "assets/img/busters-mal-heart.jpg",
+              "link": "https://www.rottentomatoes.com/m/busters_mal_heart/",
+              "rottenaudience": "assets/img/greenpopcorn.png",
+              "rottenaudienceScore": "55%",
+              "tomatometer": "assets/img/tomato.png",
+              "tomatometerScore": "71%"
+            },
+            {
+              "image": "assets/img/short-term-12.jpg",
+              "link": "https://www.rottentomatoes.com/m/short_term_12_2013",
+              "rottenaudience": "assets/img/popcorn.png",
+              "rottenaudienceScore": "93%",
+              "tomatometer": "assets/img/fresh.png",
+              "tomatometerScore": "99%"
+            },
+            {
+              "image": "assets/img/aint-them-bodies-saints.jpg",
+              "link": "https://www.rottentomatoes.com/m/aint_them_bodies_saints_2013",
+              "rottenaudience": "assets/img/popcorn.png",
+              "rottenaudienceScore": "61%",
+              "tomatometer": "assets/img/fresh.png",
+              "tomatometerScore": "79%"
+            },
+            {
+              "image": "assets/img/da-sweet-blood-of-jesus.jpg",
+              "link": "https://www.rottentomatoes.com/m/da_sweet_blood_of_jesus",
+              "rottenaudience": "assets/img/greenpopcorn.png",
+              "rottenaudienceScore": "17%",
+              "tomatometer": "assets/img/rotten.png",
+              "tomatometerScore": "44%"
+            },
+            {
+              "image": "assets/img/mr-robot-extra.jpg",
+              "link": "https://www.rottentomatoes.com/tv/mr_robot",
+              "rottenaudience": "assets/img/popcorn.png",
+              "rottenaudienceScore": "92%",
+              "tomatometer": "assets/img/tomato.png",
+              "tomatometerScore": "94%"
+            }
+
+                                        ]
+                        },
+      "addAiStarred":   {
+                        "key":"14",
+                        "type":"person",
+                        "image":"https://vignette.wikia.nocookie.net/mrrobot/images/1/1e/Trenton.png/revision/latest/window-crop/width/451/x-offset/0/y-offset/0/window-width/265/window-height/265?cb=20150810142611",
+                        "title":"Trenton",
+                        "subtitle":"Sunita Mani",
+                        "jsonFunction": "() => fullAiCardShow(data[12].fullAiCardShowType, data[12].fullAiCardShow)",
+                        "ctas": [
+                                   ["Go To Bio    ","iconcss icon-person","","data[12].addAiStarred.jsonFunction"],
+                                   ["  Go To Scene    ","iconcss icon-play-outline"]
+                                ]
+                        }        
+    },
+    {
+      "key1": "man",
+      "key2": "adult",
+      "key3": "placeholder",
+      "key4": "placeholder",
+      "key5": "placeholder",
+      "key6": "placeholder",
+      "key7": "placeholder",
+      "startTime": "02:10",
+      "endTime": "02:55",
+      "src": "assets/img/mobley.jpg",
+      "title": "Mobley",
+      "subtitle": "Azhar Khan",
+      "type": "person",
+      "fullAiCardShowType": "character",
+      "fullAiCardShow": {
+                         "key":"15",
+                         "characterName": "Mobley",
+                         "actorName": "Azhar Khan",
+                         "characterImage" :"https://vignette.wikia.nocookie.net/mrrobot/images/6/6d/Mobley.png/revision/latest/window-crop/width/451/x-offset/0/y-offset/0/window-width/244/window-height/244?cb=20150826004026",
+                         "actorImage":"https://vignette.wikia.nocookie.net/mrrobot/images/0/08/AKhan.jpg/revision/latest/window-crop/width/451/x-offset/0/y-offset/0/window-width/561/window-height/750?cb=20160607020812",
+                         "characterBio": "Mobley was born on January 2, 1984. He lives in Brooklyn. He is a fan of an obscure DJ from whom he took his hacker name. He even created an Angelfire page in DJ Mobley's honor. His father is named Ganesh, his mother Nazanin. His sister is named Sruthi. His brother Sandesh is a lawyer and Mets fan, whose wife is Elaine and daughter Rose.",
+                         "actorBio": "Azhar Khan was born in in Maharashtra, India, in January 7, 1984. He was raised in New York, USA. Azhar studied writing, animation and acting. Even though its most popular role has been Mobley from the T.V series Mr. Robot, Azhar has also worked on movies like 'Sleep Walk With Me' and 'Fresh Air 2: 2 Fresh 2 Furious'.",
+                          "otherWorks": [
+                                            {
+              "image": "assets/img/busters-mal-heart.jpg",
+              "link": "https://www.rottentomatoes.com/m/busters_mal_heart/",
+              "rottenaudience": "assets/img/greenpopcorn.png",
+              "rottenaudienceScore": "55%",
+              "tomatometer": "assets/img/tomato.png",
+              "tomatometerScore": "71%"
+            },
+            {
+              "image": "assets/img/short-term-12.jpg",
+              "link": "https://www.rottentomatoes.com/m/short_term_12_2013",
+              "rottenaudience": "assets/img/popcorn.png",
+              "rottenaudienceScore": "93%",
+              "tomatometer": "assets/img/fresh.png",
+              "tomatometerScore": "99%"
+            },
+            {
+              "image": "assets/img/aint-them-bodies-saints.jpg",
+              "link": "https://www.rottentomatoes.com/m/aint_them_bodies_saints_2013",
+              "rottenaudience": "assets/img/popcorn.png",
+              "rottenaudienceScore": "61%",
+              "tomatometer": "assets/img/fresh.png",
+              "tomatometerScore": "79%"
+            },
+            {
+              "image": "assets/img/da-sweet-blood-of-jesus.jpg",
+              "link": "https://www.rottentomatoes.com/m/da_sweet_blood_of_jesus",
+              "rottenaudience": "assets/img/greenpopcorn.png",
+              "rottenaudienceScore": "17%",
+              "tomatometer": "assets/img/rotten.png",
+              "tomatometerScore": "44%"
+            },
+            {
+              "image": "assets/img/mr-robot-extra.jpg",
+              "link": "https://www.rottentomatoes.com/tv/mr_robot",
+              "rottenaudience": "assets/img/popcorn.png",
+              "rottenaudienceScore": "92%",
+              "tomatometer": "assets/img/tomato.png",
+              "tomatometerScore": "94%"
+            }
+
+                                        ]
+                        },
+      "addAiStarred":   {
+                        "key":"15",
+                        "type":"person",
+                        "image":"https://vignette.wikia.nocookie.net/mrrobot/images/6/6d/Mobley.png/revision/latest/window-crop/width/451/x-offset/0/y-offset/0/window-width/244/window-height/244?cb=20150826004026",
+                        "title":"Mobley",
+                        "subtitle":"Azhar Khan",
+                        "jsonFunction": "() => fullAiCardShow(data[13].fullAiCardShowType, data[13].fullAiCardShow)",
+                        "ctas": [
+                                   [" Go To Bio","iconcss icon-person","","data[13].addAiStarred.jsonFunction"],
+                                   ["  Go To Scene ","iconcss icon-play-outline"]
+                                ]
+                        }               
+    },
+     {
+      "key1": "man",
+      "key2": "adult",
+      "key3": "placeholder",
+      "key4": "placeholder",
+      "key5": "placeholder",
+      "key6": "placeholder",
+      "key7": "placeholder",
+      "startTime": "02:10",
+      "endTime": "03:10",
+      "src": "assets/img/romero.jpg",
+      "title": "Romero",
+      "subtitle": "Ron Cephas Jones",
+      "type": "person",
+      "fullAiCardShowType": "character",
+      "fullAiCardShow": {
+                         "key":"16",
+                         "characterName": "Romero",
+                         "actorName": "Ron Cephas Jones",
+                         "characterImage" :"https://vignette.wikia.nocookie.net/mrrobot/images/2/2b/Romero.jpg/revision/latest/window-crop/width/451/x-offset/0/y-offset/0/window-width/453/window-height/453?cb=20150807160301",
+                         "actorImage":"https://vignette.wikia.nocookie.net/mrrobot/images/7/74/RCephas.jpg/revision/latest/scale-to-width-down/200?cb=20160603160413",
+                         "characterBio": "Leslie Romero is a computer criminal, engineer, and biologist, specializing in phone phreaking and marijuana husbandry. He lives with his elderly mother, Nell Romero, and has a history with Sunil 'Mobley' Markesh. He is played by Ron Cephas Jones. Though Romero is highly knowledgeable, his thirst for fame and lack of commitment leads to conflict with other members of fsociety.",
+                         "actorBio": "Ron Cephas Jones is an American actor who plays Romero in the series Mr. Robot. He has also worked in several movies, his most known works being 'Half Nelson', 'He Got Game', and 'Sweet and Lowdown'.",
+                          "otherWorks": [
+                                           {
+              "image": "assets/img/busters-mal-heart.jpg",
+              "link": "https://www.rottentomatoes.com/m/busters_mal_heart/",
+              "rottenaudience": "assets/img/greenpopcorn.png",
+              "rottenaudienceScore": "55%",
+              "tomatometer": "assets/img/tomato.png",
+              "tomatometerScore": "71%"
+            },
+            {
+              "image": "assets/img/short-term-12.jpg",
+              "link": "https://www.rottentomatoes.com/m/short_term_12_2013",
+              "rottenaudience": "assets/img/popcorn.png",
+              "rottenaudienceScore": "93%",
+              "tomatometer": "assets/img/fresh.png",
+              "tomatometerScore": "99%"
+            },
+            {
+              "image": "assets/img/aint-them-bodies-saints.jpg",
+              "link": "https://www.rottentomatoes.com/m/aint_them_bodies_saints_2013",
+              "rottenaudience": "assets/img/popcorn.png",
+              "rottenaudienceScore": "61%",
+              "tomatometer": "assets/img/fresh.png",
+              "tomatometerScore": "79%"
+            },
+            {
+              "image": "assets/img/da-sweet-blood-of-jesus.jpg",
+              "link": "https://www.rottentomatoes.com/m/da_sweet_blood_of_jesus",
+              "rottenaudience": "assets/img/greenpopcorn.png",
+              "rottenaudienceScore": "17%",
+              "tomatometer": "assets/img/rotten.png",
+              "tomatometerScore": "44%"
+            },
+            {
+              "image": "assets/img/mr-robot-extra.jpg",
+              "link": "https://www.rottentomatoes.com/tv/mr_robot",
+              "rottenaudience": "assets/img/popcorn.png",
+              "rottenaudienceScore": "92%",
+              "tomatometer": "assets/img/tomato.png",
+              "tomatometerScore": "94%"
+            }
+
+                                        ]
+                        },
+      "addAiStarred":   {
+                        "key":"16",
+                        "type":"person",
+                        "image":"https://vignette.wikia.nocookie.net/mrrobot/images/2/2b/Romero.jpg/revision/latest/window-crop/width/451/x-offset/0/y-offset/0/window-width/453/window-height/453?cb=20150807160301",
+                        "title":"Romero",
+                        "subtitle":"Ron Cephas Jones",
+                        "jsonFunction": "() => fullAiCardShow(data[14].fullAiCardShowType, data[14].fullAiCardShow)",
+                        "ctas": [
+                                   ["  Go To Bio","iconcss icon-person","","data[14].addAiStarred.jsonFunction"],
+                                   ["   Go To Scene    ","iconcss icon-play-outline"]
+                                ]
+                        }             
+    },
+    {
+      "key1": "woman",
+      "key2": "girl",
+      "key3": "indoors",
+      "key4": "room",
+      "key5": "furniture",
+      "key6": "placeholder",
+      "key7": "placeholder",
+      "startTime": "03:14",
+      "endTime": "05:01",
+      "src": "assets/img/shoes-sm.jpg",
+      "title": "Floret Patent Leather Pump",
+      "subtitle": "L.K. Bennett",
+      "type": "product",
+      "fullAiCardShowType": "products",
+      "fullAiCardShow": { 
+                         "key":"24",
+                         "characterName": "",
+                         "actorName": "",
+                         "characterImage" :"",
+                         "actorImage":"",
+                         "characterBio": "",
+                         "actorBio": "",
+                          "otherWorks": [
+                                            {
+              "image": "assets/img/busters-mal-heart.jpg",
+              "link": "https://www.rottentomatoes.com/m/busters_mal_heart/",
+              "rottenaudience": "assets/img/greenpopcorn.png",
+              "rottenaudienceScore": "55%",
+              "tomatometer": "assets/img/tomato.png",
+              "tomatometerScore": "71%"
+            },
+            {
+              "image": "assets/img/short-term-12.jpg",
+              "link": "https://www.rottentomatoes.com/m/short_term_12_2013",
+              "rottenaudience": "assets/img/popcorn.png",
+              "rottenaudienceScore": "93%",
+              "tomatometer": "assets/img/fresh.png",
+              "tomatometerScore": "99%"
+            },
+            {
+              "image": "assets/img/aint-them-bodies-saints.jpg",
+              "link": "https://www.rottentomatoes.com/m/aint_them_bodies_saints_2013",
+              "rottenaudience": "assets/img/popcorn.png",
+              "rottenaudienceScore": "61%",
+              "tomatometer": "assets/img/fresh.png",
+              "tomatometerScore": "79%"
+            },
+            {
+              "image": "assets/img/da-sweet-blood-of-jesus.jpg",
+              "link": "https://www.rottentomatoes.com/m/da_sweet_blood_of_jesus",
+              "rottenaudience": "assets/img/greenpopcorn.png",
+              "rottenaudienceScore": "17%",
+              "tomatometer": "assets/img/rotten.png",
+              "tomatometerScore": "44%"
+            },
+            {
+              "image": "assets/img/mr-robot-extra.jpg",
+              "link": "https://www.rottentomatoes.com/tv/mr_robot",
+              "rottenaudience": "assets/img/popcorn.png",
+              "rottenaudienceScore": "92%",
+              "tomatometer": "assets/img/tomato.png",
+              "tomatometerScore": "94%"
+            }
+
+                                        ]
+
+                         
+                        },
+      "addAiStarred":   {
+                        "key":"24",
+                        "type":"product",
+                        "image":"assets/img/shoes-lg.jpg",
+                        "title":"Floret Patent Leather Pump",
+                        "subtitle":"L.K. Bennett",
+                        "jsonFunction": "() => fullAiCardShow(data[15].fullAiCardShowType, data[15].fullAiCardShow)",
+                        "ctas": [
+                                   ["View Product   ","iconcss icon-product","https://us.lkbennett.com/product/CONTSCFLORETEPATENTLEATHERBlackBlack~Floret-Patent-Leather-Heel-Black"],
+                                   ["    Go To Scene    ","iconcss icon-play-outline"]
+                                ]
+                        }               
+
+    },
+    {
+      "key1": "vehicle",
+      "key2": "car",
+      "key3": "wall",
+      "key4": "adult",
+      "key5": "man",
+      "key6": "bar",
+      "key7": "indoors",
+      "startTime": "05:02",
+      "endTime": "06:48",
+      "src": "assets/img/mr-robot-sm.jpg",
+      "title": "Mr. Robot",
+      "subtitle": "Christian Slater",
+      "type": "person",
+      "fullAiCardShowType": "character",
+      "fullAiCardShow": {
+                         "key":"12",
+                         "characterName": "Mr. Robot",
+                         "actorName": "Christian Slater",
+                         "characterImage" :"https://vignette.wikia.nocookie.net/mrrobot/images/0/0f/MrRobot.jpg/revision/latest/window-crop/width/451/x-offset/0/y-offset/0/window-width/1004/window-height/1004?cb=20150810201043",
+                         "actorImage":"https://vignette.wikia.nocookie.net/mrrobot/images/3/34/CSlater.jpg/revision/latest/window-crop/width/451/x-offset/0/y-offset/0/window-width/300/window-height/300?cb=20150802021855",
+                         "characterBio": "Mr. Robot is the co-founder and leader of the hacker group fsociety, a revolutionary prophet who plans to bring down the world's largest conglomerate. Though he is intelligent and charismatic, Mr. Robot is also emotionally manipulative, and can be quick to violence. This has prompted comparisons to the behavior of militant cult leaders.  It eventually becomes clear that Mr. Robot is a construct within Elliot Alderson's mind. (“eps1.8_m1rr0r1ng.qt”) His persona is an idealized representation of Elliot's deceased father, Edward; where Edward was unwilling or unable to take action, Mr. Robot was created to inspire war against E Corp and incite historical change. In some situations, Mr. Robot will take control and act through Elliot, thus explaining his direct interactions with other people. ",
+                         "actorBio": "Christian Michael Leonard Slater (born August 18, 1969) is an American actor. He made his film debut with a small role in The Postman Always Rings Twice before playing a leading role in the 1985 film The Legend of Billie Jean. He played a monk's apprentice alongside Sean Connery in The Name of the Rose before gaining wider recognition for his breakthrough role in the cult film Heathers.",
+                          "otherWorks": [
+                                            {
+              "image": "assets/img/busters-mal-heart.jpg",
+              "link": "https://www.rottentomatoes.com/m/busters_mal_heart/",
+              "rottenaudience": "assets/img/greenpopcorn.png",
+              "rottenaudienceScore": "55%",
+              "tomatometer": "assets/img/tomato.png",
+              "tomatometerScore": "71%"
+            },
+            {
+              "image": "assets/img/short-term-12.jpg",
+              "link": "https://www.rottentomatoes.com/m/short_term_12_2013",
+              "rottenaudience": "assets/img/popcorn.png",
+              "rottenaudienceScore": "93%",
+              "tomatometer": "assets/img/fresh.png",
+              "tomatometerScore": "99%"
+            },
+            {
+              "image": "assets/img/aint-them-bodies-saints.jpg",
+              "link": "https://www.rottentomatoes.com/m/aint_them_bodies_saints_2013",
+              "rottenaudience": "assets/img/popcorn.png",
+              "rottenaudienceScore": "61%",
+              "tomatometer": "assets/img/fresh.png",
+              "tomatometerScore": "79%"
+            },
+            {
+              "image": "assets/img/da-sweet-blood-of-jesus.jpg",
+              "link": "https://www.rottentomatoes.com/m/da_sweet_blood_of_jesus",
+              "rottenaudience": "assets/img/greenpopcorn.png",
+              "rottenaudienceScore": "17%",
+              "tomatometer": "assets/img/rotten.png",
+              "tomatometerScore": "44%"
+            },
+            {
+              "image": "assets/img/mr-robot-extra.jpg",
+              "link": "https://www.rottentomatoes.com/tv/mr_robot",
+              "rottenaudience": "assets/img/popcorn.png",
+              "rottenaudienceScore": "92%",
+              "tomatometer": "assets/img/tomato.png",
+              "tomatometerScore": "94%"
+            }
+                                        ]
+                        },
+      "addAiStarred":   {
+                        "key":"12",
+                        "type":"person",
+                        "image":"https://vignette.wikia.nocookie.net/mrrobot/images/0/0f/MrRobot.jpg/revision/latest/window-crop/width/451/x-offset/0/y-offset/0/window-width/1004/window-height/1004?cb=20150810201043",
+                        "title":"Mr. Robot",
+                        "subtitle":"Christian Slater",
+                        "jsonFunction": "() => fullAiCardShow(data[16].fullAiCardShowType, data[16].fullAiCardShow)",
+                        "ctas": [
+                                   ["Go To Bio  ","iconcss icon-person","","data[16].addAiStarred.jsonFunction"],
+                                   ["  Go To Scene        ","iconcss icon-play-outline"]
+                                ]
+                        }               
+
+    },
+   {
+      "key1": "vehicle",
+      "key2": "car",
+      "key3": "wall",
+      "key4": "adult",
+      "key5": "man",
+      "key6": "bar",
+      "key7": "indoors",
+      "startTime": "05:02",
+      "endTime": "06:48",
+      "title": "General Trivia",
+      "subtitle": "This episode, entitled ‘zer0-day’ was originally scheduled to air 26 August, 2015, but was delayed by the network concerns about backlash. Some scenes have similarities to an actual tragic shooting occurring earlier that same day in Roanoke, VA. Thus, the delayed airing was itself due to a zer0-day event.",
+      "type": "trivia",
+      "fullAiCardShowType": "trivia",
+      "fullAiCardShow": {
+                         "key":"31",
+                         "characterName": "",
+                         "actorName": "",
+                         "characterImage" :"",
+                         "actorImage":"",
+                         "characterBio": "",
+                         "actorBio": "",
+                          "otherWorks": [
+                                            {
+              "image": "assets/img/busters-mal-heart.jpg",
+              "link": "https://www.rottentomatoes.com/m/busters_mal_heart/",
+              "rottenaudience": "assets/img/greenpopcorn.png",
+              "rottenaudienceScore": "55%",
+              "tomatometer": "assets/img/tomato.png",
+              "tomatometerScore": "71%"
+            },
+            {
+              "image": "assets/img/short-term-12.jpg",
+              "link": "https://www.rottentomatoes.com/m/short_term_12_2013",
+              "rottenaudience": "assets/img/popcorn.png",
+              "rottenaudienceScore": "93%",
+              "tomatometer": "assets/img/fresh.png",
+              "tomatometerScore": "99%"
+            },
+            {
+              "image": "assets/img/aint-them-bodies-saints.jpg",
+              "link": "https://www.rottentomatoes.com/m/aint_them_bodies_saints_2013",
+              "rottenaudience": "assets/img/popcorn.png",
+              "rottenaudienceScore": "61%",
+              "tomatometer": "assets/img/fresh.png",
+              "tomatometerScore": "79%"
+            },
+            {
+              "image": "assets/img/da-sweet-blood-of-jesus.jpg",
+              "link": "https://www.rottentomatoes.com/m/da_sweet_blood_of_jesus",
+              "rottenaudience": "assets/img/greenpopcorn.png",
+              "rottenaudienceScore": "17%",
+              "tomatometer": "assets/img/rotten.png",
+              "tomatometerScore": "44%"
+            },
+            {
+              "image": "assets/img/mr-robot-extra.jpg",
+              "link": "https://www.rottentomatoes.com/tv/mr_robot",
+              "rottenaudience": "assets/img/popcorn.png",
+              "rottenaudienceScore": "92%",
+              "tomatometer": "assets/img/tomato.png",
+              "tomatometerScore": "94%"
+            }
+
+                                        ]
+                        },
+      "addAiStarred":   {
+                        "key":"31",
+                        "type":"trivia",
+                        "image":"assets/img/trivia-5.jpg",
+                        "title":"General Trivia",
+                        "subtitle":"Scene 5 — 00:05:00",
+                        "quote": "This episode, entitled ‘zer0-day’ was originally scheduled to air 26 August, 2015, but was delayed by the network concerns about backlash. Some scenes have similarities to an actual tragic shooting occurring earlier that same day in Roanoke, VA. Thus, the delayed airing was itself due to a zer0-day event.",
+                        "jsonFunction": "",
+                        "ctas": [
+                                    ["    Go To Scene",  "iconcss icon-play-outline"]
+                          
+                                ]
+                        }        
+    },
+    {
+      "key1": "vehicle",
+      "key2": "car",
+      "key3": "wall",
+      "key4": "adult",
+      "key5": "man",
+      "key6": "bar",
+      "key7": "indoors",
+      "startTime": "05:02",
+      "endTime": "06:48",
+      "src": "assets/img/elliot-alderson.jpg",
+      "title": "Elliot Alderson",
+      "subtitle": "Rami Malek",
+      "type": "person",
+      "fullAiCardShowType": "character",
+      "fullAiCardShow": {
+                         "key":"4",
+                         "characterName": "Elliot Alderson",
+                         "actorName": "Rami Malek",
+                         "characterImage" :"https://vignette.wikia.nocookie.net/mrrobot/images/3/3e/Elliot.jpg/revision/latest/window-crop/width/451/x-offset/0/y-offset/0/window-width/345/window-height/345?cb=20150810201239",
+                         "actorImage":"https://vignette.wikia.nocookie.net/mrrobot/images/8/8f/RMalek.jpg/revision/latest/window-crop/width/451/x-offset/0/y-offset/0/window-width/3744/window-height/4744?cb=20150806150119",
+                         "characterBio": "Elliot Alderson is a cybersecurity engineer and vigilante hacker who lives in New York City. He is played by Rami Malek. Elliot suffers from social anxiety disorder, clinical depression, delusions and paranoia. His internal life is revealed via voice-overs that provide insight into his mental state, his opinions of the people he encounters and the activity around him. These dialogues with the audience are designed to help us interpret Elliot's world, but given his mental illness, he is an unreliable narrator, leaving us unsure whether what he tells us we're seeing is actually what is happening. Typical of this is when Elliot hears everyone around him refer to E Corp as Evil Corp, reflecting his own opinion of the conglomerate.",
+                         "actorBio": "Rami Said Malek, born May 12, 1981, is an American actor. He was born and raised in Los Angeles and has an identical twin, Sami. He is of Egyptian descent; his parents are Coptic Christians who emigrated from Egypt before he was born. Malek studied theater performance and earned a Bachelor of Fine Arts degree at the University of Evansville. He is known for his role as the gay teenage next-door-neighbor, 'Kenny' on the FOX comedy series The War at Home; for his role as Merriell 'Snafu' Shelton in the HBO miniseries The Pacific; his role in 2013's 'Short Term 12' as Nate; and for his role as the pharaoh Ahkmenrah in the feature films Night at the Museum, Night at the Museum: Battle of the Smithsonian, and Night at the Museum: Secret of the Tomb. He also played Benjamin in the final installment of The Twilight Saga: Breaking Dawn. He also played Joshua (Josh) Washington in the hit 2015 video game, Until Dawn.",
+                          "otherWorks": [
+                                            {
+              "image": "assets/img/busters-mal-heart.jpg",
+              "link": "https://www.rottentomatoes.com/m/busters_mal_heart/",
+              "rottenaudience": "assets/img/greenpopcorn.png",
+              "rottenaudienceScore": "55%",
+              "tomatometer": "assets/img/tomato.png",
+              "tomatometerScore": "71%"
+            },
+            {
+              "image": "assets/img/short-term-12.jpg",
+              "link": "https://www.rottentomatoes.com/m/short_term_12_2013",
+              "rottenaudience": "assets/img/popcorn.png",
+              "rottenaudienceScore": "93%",
+              "tomatometer": "assets/img/fresh.png",
+              "tomatometerScore": "99%"
+            },
+            {
+              "image": "assets/img/aint-them-bodies-saints.jpg",
+              "link": "https://www.rottentomatoes.com/m/aint_them_bodies_saints_2013",
+              "rottenaudience": "assets/img/popcorn.png",
+              "rottenaudienceScore": "61%",
+              "tomatometer": "assets/img/fresh.png",
+              "tomatometerScore": "79%"
+            },
+            {
+              "image": "assets/img/da-sweet-blood-of-jesus.jpg",
+              "link": "https://www.rottentomatoes.com/m/da_sweet_blood_of_jesus",
+              "rottenaudience": "assets/img/greenpopcorn.png",
+              "rottenaudienceScore": "17%",
+              "tomatometer": "assets/img/rotten.png",
+              "tomatometerScore": "44%"
+            },
+            {
+              "image": "assets/img/mr-robot-extra.jpg",
+              "link": "https://www.rottentomatoes.com/tv/mr_robot",
+              "rottenaudience": "assets/img/popcorn.png",
+              "rottenaudienceScore": "92%",
+              "tomatometer": "assets/img/tomato.png",
+              "tomatometerScore": "94%"
+            }
+
+                                        ]
+                        },
+      "addAiStarred":   {
+                        "key":"4",
+                        "type":"person",
+                        "image":"https://vignette.wikia.nocookie.net/mrrobot/images/3/3e/Elliot.jpg/revision/latest/window-crop/width/451/x-offset/0/y-offset/0/window-width/345/window-height/345?cb=20150810201239",
+                        "title":"Elliot Alderson",
+                        "subtitle":"Rami Malek",
+                        "jsonFunction": "() => fullAiCardShow(data[18].fullAiCardShowType, data[18].fullAiCardShow)",
+                        "ctas": [
+                                   ["Go To Bio","iconcss icon-person","","data[18].addAiStarred.jsonFunction"],
+                                   ["  Go To Scene  ","iconcss icon-play-outline"]
+                                ]
+                        }               
+    },
+      {
+      "key1": "vehicle",
+      "key2": "car",
+      "key3": "wall",
+      "key4": "placeholder",
+      "key5": "placeholder",
+      "key6": "placeholder",
+      "key7": "placeholder",
+      "startTime": "00:55",
+      "endTime": "02:05",
+      "src": "assets/img/people-who-died.jpg",
+      "title": "People Who Died",
+      "subtitle": "The Jim Caroll Band",
+      "type": "music",
+      "fullAiCardShowType": "music",
+      "fullAiCardShow": { 
+                         "key":"10",
+                         "characterName": "",
+                         "actorName": "",
+                         "characterImage" :"",
+                         "actorImage":"",
+                         "characterBio": "",
+                         "actorBio": "",
+                          "otherWorks": [
+                                           {
+              "image": "assets/img/busters-mal-heart.jpg",
+              "link": "https://www.rottentomatoes.com/m/busters_mal_heart/",
+              "rottenaudience": "assets/img/greenpopcorn.png",
+              "rottenaudienceScore": "55%",
+              "tomatometer": "assets/img/tomato.png",
+              "tomatometerScore": "71%"
+            },
+            {
+              "image": "assets/img/short-term-12.jpg",
+              "link": "https://www.rottentomatoes.com/m/short_term_12_2013",
+              "rottenaudience": "assets/img/popcorn.png",
+              "rottenaudienceScore": "93%",
+              "tomatometer": "assets/img/fresh.png",
+              "tomatometerScore": "99%"
+            },
+            {
+              "image": "assets/img/aint-them-bodies-saints.jpg",
+              "link": "https://www.rottentomatoes.com/m/aint_them_bodies_saints_2013",
+              "rottenaudience": "assets/img/popcorn.png",
+              "rottenaudienceScore": "61%",
+              "tomatometer": "assets/img/fresh.png",
+              "tomatometerScore": "79%"
+            },
+            {
+              "image": "assets/img/da-sweet-blood-of-jesus.jpg",
+              "link": "https://www.rottentomatoes.com/m/da_sweet_blood_of_jesus",
+              "rottenaudience": "assets/img/greenpopcorn.png",
+              "rottenaudienceScore": "17%",
+              "tomatometer": "assets/img/rotten.png",
+              "tomatometerScore": "44%"
+            },
+            {
+              "image": "assets/img/mr-robot-extra.jpg",
+              "link": "https://www.rottentomatoes.com/tv/mr_robot",
+              "rottenaudience": "assets/img/popcorn.png",
+              "rottenaudienceScore": "92%",
+              "tomatometer": "assets/img/tomato.png",
+              "tomatometerScore": "94%"
+            }
+
+                                        ]
+
+                         
+                        },
+      "addAiStarred":   {
+                        "key":"10",
+                        "type":"music",
+                        "image":"assets/img/people-who-died.jpg",
+                        "title":"People Who Died",
+                        "subtitle":"The Jim Caroll Band",
+                        "jsonFunction": "() => fullAiCardShow(data[19].fullAiCardShowType, data[19].fullAiCardShow)",
+                        "ctas": [
+                                   ["View Song  ","iconcss icon-music","https://open.spotify.com/track/6taFIgW5YE94x1icBh5vTg"],
+                                   ["Go To Scene       ","iconcss icon-play-outline"]
+                                ]
+                        }           
+    },
+    {
+      "key1": "woman",
+      "key2": "girl",
+      "key3": "indoors",
+      "key4": "room",
+      "key5": "furniture",
+      "key6": "placeholder",
+      "key7": "placeholder",
+      "startTime": "03:16",
+      "endTime": "05:01",
+      "src": "assets/img/salesman-sm.jpg",
+      "title": "Salesman",
+      "subtitle": "Eric Martin Brown",
+      "type": "person",
+      "fullAiCardShowType": "character",
+      "fullAiCardShow": {
+                         "key":"35",
+                         "characterName": "Salesman",
+                         "actorName": "Eric Martin Brown",
+                         "characterImage" :"assets/img/salesman-lg.jpg",
+                         "actorImage":"assets/img/eric-martin-brown-lg.jpg",
+                         "characterBio": "A shoe salesman who is appalled by Angela’s choice to come in to buy shoes following the E-Corp EVP of Technology committing suicide on live TV. He expresses further disgust for Angela's willingness to keep her job working for E-Corp following the Fsociety hack fallout.",
+                         "actorBio": "Eric Martin Brown was born on May 20, 1968 in Syracuse, New York, USA. He is an actor, known for The First Wives Club (1996), One Life to Live (1968) and 30 Rock (2006).",
+                          "otherWorks": [
+                                           {
+              "image": "assets/img/busters-mal-heart.jpg",
+              "link": "https://www.rottentomatoes.com/m/busters_mal_heart/",
+              "rottenaudience": "assets/img/greenpopcorn.png",
+              "rottenaudienceScore": "55%",
+              "tomatometer": "assets/img/tomato.png",
+              "tomatometerScore": "71%"
+            },
+            {
+              "image": "assets/img/short-term-12.jpg",
+              "link": "https://www.rottentomatoes.com/m/short_term_12_2013",
+              "rottenaudience": "assets/img/popcorn.png",
+              "rottenaudienceScore": "93%",
+              "tomatometer": "assets/img/fresh.png",
+              "tomatometerScore": "99%"
+            },
+            {
+              "image": "assets/img/aint-them-bodies-saints.jpg",
+              "link": "https://www.rottentomatoes.com/m/aint_them_bodies_saints_2013",
+              "rottenaudience": "assets/img/popcorn.png",
+              "rottenaudienceScore": "61%",
+              "tomatometer": "assets/img/fresh.png",
+              "tomatometerScore": "79%"
+            },
+            {
+              "image": "assets/img/da-sweet-blood-of-jesus.jpg",
+              "link": "https://www.rottentomatoes.com/m/da_sweet_blood_of_jesus",
+              "rottenaudience": "assets/img/greenpopcorn.png",
+              "rottenaudienceScore": "17%",
+              "tomatometer": "assets/img/rotten.png",
+              "tomatometerScore": "44%"
+            },
+            {
+              "image": "assets/img/mr-robot-extra.jpg",
+              "link": "https://www.rottentomatoes.com/tv/mr_robot",
+              "rottenaudience": "assets/img/popcorn.png",
+              "rottenaudienceScore": "92%",
+              "tomatometer": "assets/img/tomato.png",
+              "tomatometerScore": "94%"
+            }
+
+                                        ]
+                        },
+      "addAiStarred":   {
+                        "key":"35",
+                        "type":"person",
+                        "image":"assets/img/salesman-lg.jpg",
+                        "title":"Salesman",
+                        "subtitle":"Eric Martin Brown",
+                        "jsonFunction": "() => fullAiCardShow(data[20].fullAiCardShowType, data[20].fullAiCardShow)",
+                        "ctas": [
+                                   ["   Go To Bio","iconcss icon-person","","data[20].addAiStarred.jsonFunction"],
+                                   [" Go To Scene    ","iconcss icon-play-outline"]
+                                ]
+                        }               
+    }
+  ]
+ 
+}

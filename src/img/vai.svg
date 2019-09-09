@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="134px" height="172px" viewBox="0 0 134 172" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" >
+        <g id="Group-2" fill-rule="nonzero" fill="#FBF9F9" fill-opacity="0.33">
+            <g id="Group">
+                <g opacity="0.8" id="Shape">
+                    <polygon points="0.5 2.5 0.5 0.7 32.6 0.7 68.3 75.9 68.5 75.9 103.6 0.7 133.5 0.7 133.5 2.5 68.7 133.1 66.9 133.1"></polygon>
+                </g>
+                <g opacity="0.8" transform="translate(3.000000, 0.000000)" id="Shape">
+                    <path d="M0.3,131.1 L65.4,0.6 L67.2,0.6 L127.6,131.1 L127.6,132.9 L94.7,132.9 L88.5,117.7 L39.1,117.7 L32.6,132.9 L0.3,132.9 L0.3,131.1 Z M80.5,95.3 L64.9,57.8 L64.7,57.8 L47.9,95.3 L80.5,95.3 Z"></path>
+                </g>
+                <g opacity="0.8" transform="translate(51.000000, 0.000000)" id="Shape">
+                    <polygon points="0.6 0.7 31.3 0.7 31.3 133.4 0.6 133.4 0.6 0.7"></polygon>
+                </g>
+            </g>
+            <g id="Group" transform="translate(0.000000, 148.000000)">
+                <polygon id="Shape" points="0.5 2 0.5 1.7 3.6 1.7 10.3 17.8 10.3 17.8 17 1.7 20.1 1.7 20.1 2 10.4 23.8 10.1 23.8"></polygon>
+                <path d="M64.3,22.6 L74,0.8 L74.2,0.8 L83.9,22.6 L83.9,22.9 L80.8,22.9 L79.3,19.3 L68.8,19.3 L67.3,22.9 L64.3,22.9 L64.3,22.6 L64.3,22.6 Z M78.3,16.7 L74.1,6.8 L74.1,6.8 L69.9,16.7 L78.3,16.7 Z" id="Shape"></path>
+                <polygon id="Shape" points="130.5 1.7 133.5 1.7 133.5 22.8 130.5 22.8"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
